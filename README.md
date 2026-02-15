@@ -4,6 +4,12 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+<p align="center">
+<img width="30%" height="30%" alt="스크린샷 2026-02-15 오후 5 04 34" src="https://github.com/user-attachments/assets/a9edb2c9-39d0-4bdf-abd5-2640c397d252" />
+<img width="30%" height="30%" alt="스크린샷 2026-02-15 오후 5 04 11" src="https://github.com/user-attachments/assets/6a4a117e-59a0-42e4-9545-d7bbf566e9e7" />
+<img width="30%" height="30%" alt="스크린샷 2026-02-15 오후 5 04 02" src="https://github.com/user-attachments/assets/ce1ab55f-dad5-4bbe-ba9d-f8cf9569514c" />
+</p>
+
 **personal work desktop**는 파워 유저를 위한 고성능 멀티 보드 작업 관리 및 지식 허브입니다. FastAPI 백엔드와 고급 검색 기능(FTS + Trigram + Semantic), 그리고 경량의 Vanilla JS 프론트엔드를 기반으로 구성됩니다.
 
 ---
